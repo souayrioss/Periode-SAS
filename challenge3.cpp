@@ -3,10 +3,10 @@
 #include <string.h>
 int main(int argc, char *argv[])
 {
-	float Mt,Ml;
-	printf("enter la distance en Mètre ");
-	scanf("%f",&Mt);
-	Ml=Mt/0,000621371;
-	printf("la temperature en degre Celsius %f ",Ml);
+	float Km,Ml;
+	printf("enter la distance en Kilo Metre ");
+	scanf("%f",&Km);
+	Ml=Km/1.609;
+	printf("la la distance en Mille %f ",Ml);
 	return 0;
 }
