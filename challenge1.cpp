@@ -19,5 +19,5 @@ int main(int argc, char *argv[])
 	printf("Entrer votre numero de telephone :");
 	scanf("%s", &numTele);
 	printf("voila votre donnees %s,%s,%d,%s,%s " ,nom,prenom,age,sexe,numTele);
-	return 0;23
+	return 0;
 }
