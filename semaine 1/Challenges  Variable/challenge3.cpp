@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
-int main(int argc, char *argv[])
+int main()
 {
 	float Km,Ml;
 	printf("enter la distance en Kilo Metre ");
