@@ -1,4 +1,4 @@
-#include<stdio.h>
+ #include<stdio.h>
 #include<stdlib.h>
 int main()
 {
@@ -32,7 +32,6 @@ int main()
             break;
        case 2 : 
                printf("Le deuxieme instant vient avant le premier.\n");
-               break;
     }
     return 0;
 }
